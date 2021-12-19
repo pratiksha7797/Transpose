@@ -27,4 +27,6 @@ public class MatrixTranspose{
             }
             System.out.println();
         }
-    }}
+    
+    }
+}
